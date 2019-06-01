@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","particle_background|lib/simple_animations_package.dart","particle_background|lib/profile_page.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"]}
