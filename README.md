@@ -1,7 +1,7 @@
-Flutter app demonstrating
-[simple_animations](https://pub.dev/packages/simple_animations) in action.
+Simple Portofolio using Flutter for Web.
+Some things are F*cked up as Flutter for Web
+nibba is still in Preview Version +_+
 
-Contributed by Felix Blaschke.
-
-One of a series of samples
-[published here](https://github.com/felixblaschke/simple_animations_example_app).
+Credits: (1) Felix Blaschke for 
+[Background Animation](https://github.com/felixblaschke/simple_animations_example_app)
+(2) [Pawan Kumar](https://github.com/iampawan)
